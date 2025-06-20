@@ -7,6 +7,7 @@ A voice-controlled computer vision assistant with face recognition, object detec
 ### Hardware
 - Raspberry Pi 4/5 (Recommended: Pi 5 with 4GB+ RAM)
 - Official Raspberry Pi Camera Module or USB webcam
+- IR sensor
 - Microphone (Built-in or USB)
 - Speaker/headphones (3.5mm jack or HDMI audio)
 
